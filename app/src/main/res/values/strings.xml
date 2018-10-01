@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NyTimes</string>
+    <string name="search">search</string>
+    <string name="date_placeholder">pick a date</string>
+    <string name="seach_articles">search articles&#8230;</string>
+    <string name="begin_date">Begin Date</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="new_desk_values">New Desk Values</string>
+    <string name="options">options</string>
+    <string name="newest">newest</string>
+    <string name="oldest">oldest</string>
+    <string name="select_one">select one</string>
+    <string name="art">Art</string>
+    <string name="fashion_style"><![CDATA[Fashion & Style]]></string>
+    <string name="sports">Sports</string>
+    <string name="cancel">Cancel</string>
+</resources>
