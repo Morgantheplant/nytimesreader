@@ -102,6 +102,8 @@ public class OptionsDialog extends DialogFragment implements DatePickerDialog.On
             try {
                 Calendar calendar = cal != null ? cal : Calendar.getInstance();
                 calendar.setTime(dateString.parse(beginDate));
+                cal = calendar;
+                updateDatePickerText();
             } catch (ParseException e) {
                 e.printStackTrace();
             }
