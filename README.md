@@ -58,4 +58,4 @@ Describe any challenges encountered while building the app.
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](# Project 2 - *Name of App Here*
+- [Glide](https://bumptech.github.io/glide/doc/options.html)
